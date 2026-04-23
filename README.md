@@ -13,3 +13,5 @@ I'm currently using C++ to solve these problems. I may use other languages like 
 - Consistently alternating between active and skipped days (e.g., working one day, resting the next in a loop) violates the challenge and counts as a fail.
 
 - No AI copy-pasting. AI can act as a tutor for hints, but it cannot write the solutions.
+
+**File Naming Convention**: `{leetcode problem number}_{problem title}`
