@@ -1,6 +1,6 @@
 # Leetcode Problem Solutions
 
-I'm very fond of solving puzzles and challenges. I wanted to challenge myself to solve all available LeetCode problems. My objective is for me to improve my current knowledge in Data Structures and Algorithms, as I find that what I have learned is shallow and needs to be in greater depth. This medium will not only enable me to keep my programming skills in check, but also keep me keen on actively improving them.
+I'm very fond of solving puzzles and challenges. I wanted to challenge myself to solve 300+ available LeetCode problems. My objective is for me to improve my current knowledge in Data Structures and Algorithms, as I find that what I have learned is shallow and needs to be in greater depth. This medium will not only enable me to keep my programming skills in check, but also keep me keen on actively improving them.
 
 ## Challenge Rules:
 
